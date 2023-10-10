@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
   name: "Lisandro Matías Etcheverry",
-  age: 29,
+  age: 30,
   country: "Argentina",
   role: "Full-Stack Developer",
   state: "Open to work",
