@@ -44,95 +44,119 @@ Sistema completo de stock, movimientos, remitos y roles.
 
 ## Tech Stack
 
-<table align="center">
+### 🧩 Lenguajes
+<table>
   <tr>
-    <td align="center" width="130" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45">
       <br>JavaScript
     </td>
-    <td align="center" width="130" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45">
       <br>TypeScript
     </td>
-    <td align="center" width="130" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45">
       <br>Python
     </td>
-    <td align="center" width="130" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-      <br>C#
-    </td>
-    <td align="center" width="130" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
       <br>Java
     </td>
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45">
+      <br>C#
+    </td>
   </tr>
+</table>
 
+---
+
+### 🎨 Frontend
+<table>
   <tr>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
       <br>React
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45">
       <br>Next.js
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid #e5e5e5;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45">
       <br>Tailwind
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45">
       <br>Sass
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
-      <br>Flask
-    </td>
   </tr>
+</table>
 
+---
+
+### ⚙ Backend
+<table>
   <tr>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
       <br>Node.js
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45">
       <br>Express
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45">
+      <br>Flask
+    </td>
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45">
       <br>.NET
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
+  </tr>
+</table>
+
+---
+
+### 🤖 IA · Computer Vision · Desktop
+<table>
+  <tr>
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45">
       <br>OpenCV
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/public/ollama.png" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://avatars.githubusercontent.com/u/48338820?s=200&v=4" width="45">
+      <br>MediaPipe
+    </td>
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="45">
+      <br>PyQt6 / Qt
+    </td>
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/public/ollama.png" width="45">
       <br>Ollama
     </td>
   </tr>
+</table>
 
+---
+
+### 🗄 Bases de Datos
+<table>
   <tr>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://avatars.githubusercontent.com/u/48338820?s=200&v=4" width="45" />
-      <br>MediaPipe
-    </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="45" />
-      <br>PyQt6 / Qt
-    </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45">
       <br>SQLite
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45">
       <br>PostgreSQL
     </td>
-    <td align="center" style="background:#ffffff; padding:15px; border:1px solid:#e5e5e5;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+    <td align="center" width="130" style="background:#f9f9fb; padding:18px; border:1px solid #e5e5e5; border-radius:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45">
       <br>MongoDB
     </td>
   </tr>
