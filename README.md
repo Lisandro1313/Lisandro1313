@@ -74,7 +74,7 @@ Sistema completo de stock, movimientos, remitos y roles.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" />
   <img src="https://avatars.githubusercontent.com/u/48338820?s=200&v=4" width="48" title="MediaPipe"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" title="PyQt6"/>
-  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/public/ollama.png" width="48" />
+  <img src="https://ollama.com/public/ollama.png" width="48" />
 </p>
 
 ### Bases de Datos
